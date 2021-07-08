@@ -9,7 +9,7 @@
 
 2. 내 모델 (xgboost) 70% + 팀원 분 모델 30%로 블렌딩 : Leaderboard Public 0.6799667352
 
-3. 최종적으로 Leaderboard Public 0.6799667352 | Private 0.66804 으로 52등 / 714 (Top 8%)
+　　→ 최종적으로 Leaderboard Public 0.6799667352 | Private 0.66804 으로 52등 / 714 (Top 8%)
 
 
 
